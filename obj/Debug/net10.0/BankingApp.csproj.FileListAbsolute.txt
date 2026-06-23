@@ -1,0 +1,15 @@
+C:\Users\user\C#final1\BankingApp\bin\Debug\net10.0\Data\bank_data.json
+C:\Users\user\C#final1\BankingApp\bin\Debug\net10.0\BankingApp.exe
+C:\Users\user\C#final1\BankingApp\bin\Debug\net10.0\BankingApp.deps.json
+C:\Users\user\C#final1\BankingApp\bin\Debug\net10.0\BankingApp.runtimeconfig.json
+C:\Users\user\C#final1\BankingApp\bin\Debug\net10.0\BankingApp.dll
+C:\Users\user\C#final1\BankingApp\bin\Debug\net10.0\BankingApp.pdb
+C:\Users\user\C#final1\BankingApp\obj\Debug\net10.0\BankingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\C#final1\BankingApp\obj\Debug\net10.0\BankingApp.AssemblyInfoInputs.cache
+C:\Users\user\C#final1\BankingApp\obj\Debug\net10.0\BankingApp.AssemblyInfo.cs
+C:\Users\user\C#final1\BankingApp\obj\Debug\net10.0\BankingApp.csproj.CoreCompileInputs.cache
+C:\Users\user\C#final1\BankingApp\obj\Debug\net10.0\BankingApp.dll
+C:\Users\user\C#final1\BankingApp\obj\Debug\net10.0\refint\BankingApp.dll
+C:\Users\user\C#final1\BankingApp\obj\Debug\net10.0\BankingApp.pdb
+C:\Users\user\C#final1\BankingApp\obj\Debug\net10.0\BankingApp.genruntimeconfig.cache
+C:\Users\user\C#final1\BankingApp\obj\Debug\net10.0\ref\BankingApp.dll

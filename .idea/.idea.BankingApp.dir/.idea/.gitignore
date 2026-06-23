@@ -1,0 +1,33 @@
+# IDE Specific Files (Rider / IntelliJ / VS Code)
+/.idea/
+/.vs/
+/*.sln.iml
+
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# Ignored default folder with query files
+/queries/
+
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# ==========================================
+# .NET Build and Release Outputs
+# ==========================================
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet Packages
+*.nuget.props
+*.nuget.targets

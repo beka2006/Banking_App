@@ -1,0 +1,44 @@
+[
+  {
+    "FirstName": "John",
+    "LastName": "Doe",
+    "CardDetails": {
+      "Number": "1234-5678-9012-3456",
+      "ExpiresOn": "12/27",
+      "Cvc": "123"
+    },
+    "PinCode": "1234",
+    "GelBalance": 100,
+    "UsdBalance": 0,
+    "EurBalance": 0,
+    "History": []
+  },
+  {
+    "FirstName": "Jane",
+    "LastName": "Smith",
+    "CardDetails": {
+      "Number": "5555-6666-7777-8888",
+      "ExpiresOn": "08/27",
+      "Cvc": "456"
+    },
+    "PinCode": "5678",
+    "GelBalance": 500,
+    "UsdBalance": 50,
+    "EurBalance": 20,
+    "History": []
+  },
+  {
+    "FirstName": "Michael",
+    "LastName": "Brown",
+    "CardDetails": {
+      "Number": "9999-1111-2222-3333",
+      "ExpiresOn": "03/28",
+      "Cvc": "789"
+    },
+    "PinCode": "4321",
+    "GelBalance": 1200,
+    "UsdBalance": 100,
+    "EurBalance": 75,
+    "History": []
+  }
+]
